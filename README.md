@@ -1,3 +1,3 @@
 # blog
 
-htbrandao.github.io/blog
+https://htbrandao.github.io/blog
